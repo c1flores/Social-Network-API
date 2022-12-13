@@ -1,5 +1,9 @@
+// Define Mongoose
+
 const { Schema, model } = require('mongoose');
 
+
+//  Define the shape of the documents within the collection.
 const userSchema = new Schema(
     {
       username: {
@@ -35,10 +39,12 @@ const userSchema = new Schema(
     }
   );
   
+  // Create a virtual property `friendCount` that gets the amount of friends
   userSchema.virtual('friendCount').get(function () {
     return this.friends.length;
   });
   
+    // userSchema is the name of the schema we are using to create a new instance of the model
   const User = model('User', userSchema);
   
   module.exports = User;

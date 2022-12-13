@@ -1,6 +1,9 @@
 const moment = require('moment');
+
+// Define Mongoose
 const { Schema, Types } = require('mongoose');
 
+//  Define the shape of the documents within the collection.
 const reactionSchema = new Schema(
     {
       reactionId: {

@@ -1,7 +1,11 @@
 const moment = require('moment');
+
+// Define Mongoose
 const { Schema, model } = require('mongoose');
+
 const reactionSchema = require('./Reaction');
 
+//  Define the shape of the documents within the collection.
 const thoughtSchema = new Schema(
     {
       thoughtText: {
@@ -29,10 +33,12 @@ const thoughtSchema = new Schema(
     }
   );
   
+
   thoughtSchema.virtual('reactionCount').get(function () {
     return this.reactions.length;
   });
   
+  // thoughtSchema is the name of the schema we are using to create a new instance of the model
   const Thought = model('Thought', thoughtSchema);
   
   module.exports = Thought;
