@@ -1,6 +1,4 @@
 # Table of Contents
-
-- [Table of Contents](#table-of-contents)
   - [Overview](#overview)
   - [What's the difference between ORM AND ODM?](#whats-the-difference-between-orm-and-odm)
   - [Screen Capture](#screen-capture)
@@ -9,7 +7,7 @@
   - [Usage](#usage)
   
 ## Overview
- This repository is an exhibition of an API designed for a social network web application. The user can consult the repo to learn how to create an API for a social network web application, using the Mongoose object data modeling library (ODM). The project makes use of <a href="https://nodejs.org/en/" target="_blank">Node.js</a> to work with a back end, the <a href="https://www.npmjs.com/package/express" target="_blank">Express</a>  package to design and configure an API, the <a href="https://github.com/yanatan16/node-api-routes" target="_blank">Api-Routes</a>  package to use a declarative system for creating express API routes, the <a href="https://momentjs.com/" target="_blank">Moment</a> package to display dates, and <a href="https://mongoosejs.com/" target="_blank">Mongoose</a> package to effectively provide a schema-based solution to model application data. 
+ This repository is an exhibition of an API designed for a social network web application. The user can consult the repo to learn how to create an API for a social network web application, using the Mongoose object data modeling library (ODM). The project makes use of <a href="https://nodejs.org/en/" target="_blank">Node.js</a> to work with a back end, the <a href="https://www.npmjs.com/package/express" target="_blank">Express</a>  package to design and configure an API, the <a href="https://github.com/yanatan16/node-api-routes" target="_blank">Api-Routes</a>  package to use a declarative system for creating express API routes, the <a href="https://momentjs.com/" target="_blank">Moment</a> package to display dates, and the <a href="https://mongoosejs.com/" target="_blank">Mongoose</a> package to effectively provide a schema-based solution to model application data. 
 
 
 ## What's the difference between ORM AND ODM?
