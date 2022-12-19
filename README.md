@@ -39,6 +39,6 @@
   - Run "npm i api-routes"
   - Run "npm i express"
   - Run "npm i moment"
-  - Run "npm i mongdb"
+  - Run "npm i mongodb"
   - Run "npm i mongoose"
   - Test endpoints in API tester such as [Insomnia](https://insomnia.rest/)
