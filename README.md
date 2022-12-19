@@ -1,4 +1,6 @@
 # Table of Contents
+
+- [Table of Contents](#table-of-contents)
   - [Overview](#overview)
   - [What's the difference between ORM AND ODM?](#whats-the-difference-between-orm-and-odm)
   - [Screen Capture](#screen-capture)
@@ -16,10 +18,10 @@
  ODM is object document mapping, akin to ORM for non-relational databases or distributed databases such as MongoDB. Mongoose is a  Node-based library that operationalizes the ODM paradigm by allowing developers to enforce a specific schema at the application layer. In addition to enforcing a schema, Mongoose offers a variety of hooks, model validation, and other features that facilitate interaction with MongoDB. 
 
 ## Screen Capture
-![]()
+![](https://user-images.githubusercontent.com/81927296/208347403-07a66f9e-fbc7-47b1-bbc9-b7239a83a343.gif)
 
 ## Link to Screen Recording of Application
-[Google Drive Link]()
+[Google Drive Link](https://drive.google.com/file/d/1g4vKQXPYE9b0YYgCfHOxla7UCswXcBQW/view?usp=sharing)
 
 ## Installation
 
