@@ -25,7 +25,21 @@
 
 ## Installation
 
-  - 
+  - Fork repository
+  - Setup Node project
+  - Install dependencies 
+  - Ensure Api-Routes package is installed
+  - Ensure Express package is installed
+  - Ensure Moment package is installed
+  - Ensure Mongodb package is installed
+  - Ensure Mongoose package is installed
 ## Usage
 
-  - 
+  - Open integrated terminal in IDE
+  - Run "npm i init"
+  - Run "npm i api-routes"
+  - Run "npm i express"
+  - Run "npm i moment"
+  - Run "npm i mongdb
+  - Run npm i mongoose
+  - Test endpoints in API tester such as [Insomnia](https://insomnia.rest/)
