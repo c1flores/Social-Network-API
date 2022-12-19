@@ -1,6 +1,5 @@
 # Table of Contents
 
-- [Table of Contents](#table-of-contents)
   - [Overview](#overview)
   - [What's the difference between ORM AND ODM?](#whats-the-difference-between-orm-and-odm)
   - [Screen Capture](#screen-capture)
