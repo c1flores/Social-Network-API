@@ -25,11 +25,11 @@
 ## Installation
 
   1. Fork and clone repository to local machine. 
-  2. Open integrated terminal in IDE.
+  2. Open integrated terminal in personal IDE.
   3. Run ```npm i``` to install dependencies in local project directory. 
   
 ## Usage
 
-  1. Open integrated terminal in IDE.
+  1. Open integrated terminal in personal IDE.
   2. Run ```npm run start``` to start server on local port. 
   3. Test endpoints in API tester such as [Insomnia](https://insomnia.rest/).
