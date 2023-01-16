@@ -4,7 +4,7 @@
   - [What's the difference between ORM AND ODM?](#whats-the-difference-between-orm-and-odm)
   - [Technologies Used](#technologies-used)
   - [Screen Capture](#screen-capture)
-  - [Link to Screen Recording of Application](#link-to-screen-recording-of-application)
+  - [Full Walkthrough Video](#full-walkthrough-video)
   - [Installation](#installation)
   - [Usage](#usage)
   
@@ -39,8 +39,8 @@
 ## Screen Capture
 ![](https://user-images.githubusercontent.com/81927296/208347403-07a66f9e-fbc7-47b1-bbc9-b7239a83a343.gif)
 
-## Link to Screen Recording of Application
-[Google Drive Link](https://drive.google.com/file/d/1g4vKQXPYE9b0YYgCfHOxla7UCswXcBQW/view?usp=sharing)
+## Full Walkthrough Video
+[Link](https://drive.google.com/file/d/1g4vKQXPYE9b0YYgCfHOxla7UCswXcBQW/view?usp=sharing)
 
 ## Installation
 
