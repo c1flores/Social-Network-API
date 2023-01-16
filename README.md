@@ -2,6 +2,7 @@
 
   - [Overview](#overview)
   - [What's the difference between ORM AND ODM?](#whats-the-difference-between-orm-and-odm)
+  - [Technologies Used](#technologies-used)
   - [Screen Capture](#screen-capture)
   - [Link to Screen Recording of Application](#link-to-screen-recording-of-application)
   - [Installation](#installation)
