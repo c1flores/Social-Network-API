@@ -1,5 +1,9 @@
-# Table of Contents
 
+<!-- omit in toc -->
+# Social-Network-API
+
+<!-- omit in toc -->
+## Table of Contents
   - [Overview](#overview)
   - [What's the Difference between ORM and ODM?](#whats-the-difference-between-orm-and-odm)
   - [Technologies Used](#technologies-used)
@@ -18,7 +22,6 @@
  ODM is object document mapping, akin to ORM for non-relational databases or distributed databases such as MongoDB. Mongoose is a  Node-based library that operationalizes the ODM paradigm by allowing developers to enforce a specific schema at the application layer. In addition to enforcing a schema, Mongoose offers a variety of hooks, model validation, and other features that facilitate interaction with MongoDB. 
 
 ## Technologies Used
-
 <div style="display: inline_block"><br>
   <img height="40" align="center" alt="Chris-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -43,13 +46,11 @@
 [Link](https://drive.google.com/file/d/1g4vKQXPYE9b0YYgCfHOxla7UCswXcBQW/view?usp=sharing)
 
 ## Installation
-
   1. Fork and clone repository to local machine. 
   2. Open integrated terminal in personal IDE.
   3. Run ```npm i``` to install dependencies in local project directory. 
   
 ## Usage
-
   1. Open integrated terminal in personal IDE.
   2. Run ```npm run start``` to start server on local port. 
   3. Test endpoints in API tester such as [Insomnia](https://insomnia.rest/).
